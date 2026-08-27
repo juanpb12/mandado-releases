@@ -1,0 +1,19 @@
+{
+    "android": {
+        "available": true,
+        "current": "mandado-partner-v1.0.3-b8-android-universal-release.apk",
+        "version": "1.0.3",
+        "latest_version": "1.0.3",
+        "build": 8,
+        "latest_build": 8,
+        "required_build": 0,
+        "target": "universal",
+        "sha256": "9D698DE34C30869A8697E1283CB4F5AF4F505C4DB4B90E76B46A295F57E56336",
+        "download_url": "https://github.com/juanpb12/mandado-releases/releases/download/partner-v1.0.3-b8/mandado-partner-v1.0.3-b8-android-universal-release.apk",
+        "release_notes": "Nueva version disponible."
+    },
+    "ios": {
+        "current": null,
+        "available": false
+    }
+}
