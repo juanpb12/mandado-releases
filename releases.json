@@ -1,15 +1,15 @@
 {
     "android": {
         "available": true,
-        "current": "mandado-customer-v1.0.3-b20-android-universal-release.apk",
+        "current": "mandado-customer-v1.0.3-b21-android-universal-release.apk",
         "version": "1.0.3",
         "latest_version": "1.0.3",
-        "build": 20,
-        "latest_build": 20,
+        "build": 21,
+        "latest_build": 21,
         "required_build": 0,
         "target": "universal",
-        "sha256": "36FCA853E17A9734CE9A04A90AADD099861327F55FAD4EB7DCA0B09065996F83",
-        "download_url": "https://github.com/juanpb12/mandado-releases/releases/download/customer-v1.0.3-b20/mandado-customer-v1.0.3-b20-android-universal-release.apk",
+        "sha256": "DCE964E13D890F3B72456E977009F4B84E559E92328FB38B7B3B4FD76AF81CD4",
+        "download_url": "https://github.com/juanpb12/mandado-releases/releases/download/customer-v1.0.3-b21/mandado-customer-v1.0.3-b21-android-universal-release.apk",
         "release_notes": "Nueva version disponible."
     },
     "ios": {
