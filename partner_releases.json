@@ -1,16 +1,16 @@
 {
     "android": {
         "available": true,
-        "current": "mandado-partner-v1.0.3-b12-android-universal-release.apk",
-        "version": "1.0.3",
-        "latest_version": "1.0.3",
-        "build": 12,
-        "latest_build": 12,
+        "current": "mandado-partner-v1.0.4-b13-android-universal-release.apk",
+        "version": "1.0.4",
+        "latest_version": "1.0.4",
+        "build": 13,
+        "latest_build": 13,
         "required_build": 0,
         "target": "universal",
-        "sha256": "72B14F80AF107C0436CF31E834A3BA9BAFB040AA338DEDFD8F63476F75847359",
-        "download_url": "https://github.com/juanpb12/mandado-releases/releases/download/partner-v1.0.3-b12/mandado-partner-v1.0.3-b12-android-universal-release.apk",
-        "release_notes": "Nueva version disponible."
+        "sha256": "38F15A090C1BE8D65B83E671A859137C00E37FA046EFF73B90C2294C99591F68",
+        "download_url": "https://github.com/juanpb12/mandado-releases/releases/download/partner-v1.0.4-b13/mandado-partner-v1.0.4-b13-android-universal-release.apk",
+        "release_notes": "Nueva experiencia para comercios con pedidos, POS, stock y gestión comercial. Mejoras de compatibilidad por dispositivo para riders."
     },
     "ios": {
         "current": null,

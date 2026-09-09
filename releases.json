@@ -1,16 +1,16 @@
 {
     "android": {
         "available": true,
-        "current": "mandado-customer-v1.0.3-b25-android-universal-release.apk",
+        "current": "mandado-customer-v1.0.3-b26-android-universal-release.apk",
         "version": "1.0.3",
         "latest_version": "1.0.3",
-        "build": 25,
-        "latest_build": 25,
+        "build": 26,
+        "latest_build": 26,
         "required_build": 0,
         "target": "universal",
-        "sha256": "963F4C276419B86F73724DBE09A44B130AEF0F0C3BEA2F8B7AE3C339428EF57E",
-        "download_url": "https://github.com/juanpb12/mandado-releases/releases/download/customer-v1.0.3-b25/mandado-customer-v1.0.3-b25-android-universal-release.apk",
-        "release_notes": "Mejoras de rendimiento en la carga de productos del home y buscador."
+        "sha256": "A843F69AC8842AD77CD18DF2AF5CB67DBB720C4A10A3DBD730387D7C4DC36E7E",
+        "download_url": "https://github.com/juanpb12/mandado-releases/releases/download/customer-v1.0.3-b26/mandado-customer-v1.0.3-b26-android-universal-release.apk",
+        "release_notes": "Actualización de la aplicación con las últimas mejoras de rendimiento y estabilidad."
     },
     "ios": {
         "current": null,
