@@ -1,16 +1,16 @@
 {
     "android": {
         "available": true,
-        "current": "mandado-customer-v1.0.3-b27-android-universal-release.apk",
+        "current": "mandado-customer-v1.0.3-b28-android-universal-release.apk",
         "version": "1.0.3",
         "latest_version": "1.0.3",
-        "build": 27,
-        "latest_build": 27,
+        "build": 28,
+        "latest_build": 28,
         "required_build": 0,
         "target": "universal",
-        "sha256": "69E88069D133882F8100AEDB435814EDA999B88D2BFBEE998F7F0B0C13F6B7AE",
-        "download_url": "https://github.com/juanpb12/mandado-releases/releases/download/customer-v1.0.3-b27/mandado-customer-v1.0.3-b27-android-universal-release.apk",
-        "release_notes": "Nueva version disponible."
+        "sha256": "542973BAF33D783D83E16D525A7447DF97C6A0EE5F0F4DFA1E65B5166342E488",
+        "download_url": "https://github.com/juanpb12/mandado-releases/releases/download/customer-v1.0.3-b28/mandado-customer-v1.0.3-b28-android-universal-release.apk",
+        "release_notes": "Mejoras visuales en tiendas y accesos de configuracion."
     },
     "ios": {
         "current": null,

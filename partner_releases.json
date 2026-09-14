@@ -1,16 +1,16 @@
 {
     "android": {
         "available": true,
-        "current": "mandado-partner-v1.0.4-b14-android-universal-release.apk",
+        "current": "mandado-partner-v1.0.4-b15-android-universal-release.apk",
         "version": "1.0.4",
         "latest_version": "1.0.4",
-        "build": 14,
-        "latest_build": 14,
+        "build": 15,
+        "latest_build": 15,
         "required_build": 0,
         "target": "universal",
-        "sha256": "C79DFF9DE45501FA86327FE12B6E2F6155DC6069E5168B6D007A7F3E84B1E268",
-        "download_url": "https://github.com/juanpb12/mandado-releases/releases/download/partner-v1.0.4-b14/mandado-partner-v1.0.4-b14-android-universal-release.apk",
-        "release_notes": "Nueva version disponible."
+        "sha256": "E1AA380BEC048DB020F4102230C3021EA75B6E3D6131DFA646657358765BB6FC",
+        "download_url": "https://github.com/juanpb12/mandado-releases/releases/download/partner-v1.0.4-b15/mandado-partner-v1.0.4-b15-android-universal-release.apk",
+        "release_notes": "Mejoras en busqueda por EAN, escaneo y creacion de productos."
     },
     "ios": {
         "current": null,
