@@ -1,16 +1,16 @@
 {
     "android": {
         "available": true,
-        "current": "mandado-partner-v1.0.4-b17-android-universal-release.apk",
+        "current": "mandado-partner-v1.0.4-b18-android-universal-release.apk",
         "version": "1.0.4",
         "latest_version": "1.0.4",
-        "build": 17,
-        "latest_build": 17,
+        "build": 18,
+        "latest_build": 18,
         "required_build": 0,
         "target": "universal",
-        "sha256": "4A5C2403B794686E7B8329C7E39A6B203A3580CBFA9B138B646C468FAA5489E7",
-        "download_url": "https://github.com/juanpb12/mandado-releases/releases/download/partner-v1.0.4-b17/mandado-partner-v1.0.4-b17-android-universal-release.apk",
-        "release_notes": "Mejoras en POS, stock, edicion de productos y gestion de pedidos."
+        "sha256": "C38C05C0D6D61258EA93341C419AFFBFF25E80CACC96DE095DC0E1CC44813114",
+        "download_url": "https://github.com/juanpb12/mandado-releases/releases/download/partner-v1.0.4-b18/mandado-partner-v1.0.4-b18-android-universal-release.apk",
+        "release_notes": "Mejoras en pedidos, pagos, rutas y gestion del comercio."
     },
     "ios": {
         "current": null,
