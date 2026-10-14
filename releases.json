@@ -1,16 +1,16 @@
 {
     "android": {
         "available": true,
-        "current": "mandado-customer-v1.1.1-b33-android-universal-release.apk",
-        "version": "1.1.1",
-        "latest_version": "1.1.1",
-        "build": 33,
-        "latest_build": 33,
+        "current": "mandado-customer-v1.1.2-b34-android-universal-release.apk",
+        "version": "1.1.2",
+        "latest_version": "1.1.2",
+        "build": 34,
+        "latest_build": 34,
         "required_build": 0,
         "target": "universal",
-        "sha256": "8E3FD7564E75A7D6441865738990592DC4459E8827A21B4DD5DD58EE5F4D9514",
-        "download_url": "https://github.com/juanpb12/mandado-releases/releases/download/customer-v1.1.1-b33/mandado-customer-v1.1.1-b33-android-universal-release.apk",
-        "release_notes": "Mejoras en compras por encargo, carrito y experiencia de pedidos."
+        "sha256": "9A1188A206CBDF4DCD8E3FF264EB224A44BE683E6C7D2652A63AC06FBE7F34F0",
+        "download_url": "https://github.com/juanpb12/mandado-releases/releases/download/customer-v1.1.2-b34/mandado-customer-v1.1.2-b34-android-universal-release.apk",
+        "release_notes": "Mejoras en compras, carrito, pedidos y experiencia de pago."
     },
     "ios": {
         "current": null,
